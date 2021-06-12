@@ -1,2 +1,46 @@
-# ByDzyne Blockchain Dollar (USBD)
+## ByDzyne Blockchain Dollar (USBD)
 Financial Innovations in Blockchain Marketing
+
+![image]()
+
+ByDzyne Blockchain Dollar is the latest and greatest stablecoin on the market today, with industry insiders pegging it to be one of the potential significant performers over the next several years and well into the future. Why? 
+
+Because ByDzyne Blockchain Dollar is a stablecoin unlike any other on the market today, this unique cryptocurrency is the only coin with a 100% decentralized chain of custody of other stablecoins and a 100% autonomous custodial transparency. For merchants across the globe and throughout the developing world, ByDzyne Blockchain Dollar offers excellent protection and insulation from local currency malfunctions, single stablecoin price deviations, as well as greater buying power compared to other stablecoins or cryptocurrencies. Specifically beneficial to businesses who rely on international supply chains, ByDzyne Blockchain Dollar’s decentralized chain of custody creates a seamless conversion and transfer of funds between the parties — meaning faster, more efficient, more profitable transactions.
+
+We designed the ByDzyne Blockchain Dollar as the stablecoin to set the community on fire and revolutionize how this type of cryptocurrency performs one-to-one parity against the US dollar-based Stablecoins. The ByDzyne Blockchain Dollar has redefined the power and possibility of stablecoins and cryptocurrency forever in perfect for investments, business transactions, or personal wealth growth.
+
+If you are an exchange owner and want to intergrade the ByDzyne Dollar into your business model you can send us a message at info@ibbt.io
+
+## Collateralized: 
+
+Each USBD token has a corresponding 1:1 parity value of seven stabecoins. The USBD is 100% decentralized, 100% autonomous, 100% Decentralized Attestation, and 100% Decentralized Managed Supply.  When the USBD is issued the supply of the USBD has an autonomous burning/issuing of the supply. This ensures the parity is always one-to-one with the value of the _eight_ stablecoins in custody. We have selected to work with the top _eight_ stablecoins with reliable management teams that maintain their own cash reserves against the independent value fluctuation of those stablecoins. This strategy allows our USBD holder to convert to any of the stablecoins, even if they originally selected to use a specific stablecoin conversion to USBD. The benefit of using USBD is the ability to choose which conversion best fits their daily price deviation. 
+
+
+### Stablecoins in Custody
+
+1. [![image](https://etherscan.io/token/images/centre-usdc_28.png)](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48?a=0x496266ff0876262b0177cef026a117abc24b2532 "USD Coin")
+2. [![image](https://etherscan.io/token/images/MCDDai_32.png)](https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x496266ff0876262b0177cef026a117abc24b2532 "Dai Stablecoin")
+3. [![image](https://etherscan.io/token/images/paxos_28_2.png)](https://etherscan.io/address/0x8e870d67f660d95d5be530380d0ec0bd388289e1?a=0x496266ff0876262b0177cef026a117abc24b2532 "Paxos Standard")
+4. [![image](https://etherscan.io/token/images/binanceusd_32.png)](https://etherscan.io/address/0x4fabb145d64652a948d72533023f6e7a623c7c53?a=0x496266ff0876262b0177cef026a117abc24b2532 "Binance Dollar")
+5. [![image](https://etherscan.io/token/images/stableusd_32.png)](https://etherscan.io/address/0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe?a=0x496266ff0876262b0177cef026a117abc24b2532 "Stable USD")
+6. [![image](https://etherscan.io/token/images/gemini_28.png)](https://etherscan.io/token/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd?a=0x496266ff0876262b0177cef026a117abc24b2532 "Gemini USD")
+7. [![image](https://etherscan.io/token/images/husd_32.png)](https://etherscan.io/address/0xdf574c24545e5ffecb9a659c229253d4111d87e1?a=0x496266ff0876262b0177cef026a117abc24b2532 "HUSD")
+8. [![image](https://etherscan.io/token/images/trueusd_32.png)](https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376?a=0x496266ff0876262b0177cef026a117abc24b2532 "True USD")
+
+[Visit Live Disclosure & Attestation](https://etherscan.io/tokenholdings?a=0x8e12e7225d738386758832991f010c82de23f86d)
+
+## Escrow: 
+
+Each ByDzyne Dollar (USBD) is backed by a 1:1 ratio that is held in an escrow account by respective parties. Qualifying institutions can participate in the ByDzyne Dollar system, eliminating the need for trust in central entities or trust in third-party accounting. With _eight_ stablecoins daily price deviations may fluctuate for the individual stablecoins, but the price remains in `parity` since the USBD holder can choose to convert to a stablecoin under custody that has the most favorable price deviation.
+
+### Support or Contact
+
+The **ByDzyne Blockchain Dollar (USBD)** is fully verified and audited on Etherscan.
+
+Live Smart Contract [0x8e12e7225d738386758832991f010c82de23f86d](https://etherscan.io/address/0x8e12e7225d738386758832991f010c82de23f86d "Visit ByDzyne Dollar Contract on Etherscan.io!")
+
+[https://usbd.money](https://usbd.money "Visit Parity Dollar Site!")
+
+[iBBT.io](https://ibbt.io "Visit iBlockchain Bank & Trust Technologies Co.!")
+
+
