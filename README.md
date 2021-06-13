@@ -39,7 +39,7 @@ The **ByDzyne Blockchain Dollar (USBD)** is fully verified and audited on Ethers
 
 Live Smart Contract [0x8e12e7225d738386758832991f010c82de23f86d](https://etherscan.io/address/0x8e12e7225d738386758832991f010c82de23f86d "Visit ByDzyne Dollar Contract on Etherscan.io!")
 
-[https://usbd.money](https://usbd.money "Visit Parity Dollar Site!")
+[https://usbd.money](https://usbd.money "Visit ByDzyne Dollar Site!")
 
 [iBBT.io](https://ibbt.io "Visit iBlockchain Bank & Trust Technologies Co.!")
 
