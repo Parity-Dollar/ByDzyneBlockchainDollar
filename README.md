@@ -9,7 +9,7 @@ Because ByDzyne Blockchain Dollar is a stablecoin unlike any other on the market
 
 We designed the ByDzyne Blockchain Dollar as the stablecoin to set the community on fire and revolutionize how this type of cryptocurrency performs one-to-one parity against the US dollar-based Stablecoins. The ByDzyne Blockchain Dollar has redefined the power and possibility of stablecoins and cryptocurrency forever in perfect for investments, business transactions, or personal wealth growth.
 
-If you are an exchange owner or a mercahnt and want to intergrade the ByDzyne Dollar into your business model you can send us a message at info@ibbt.io
+If you are an exchange owner or a merchant and want to intergrade the ByDzyne Dollar into your business model you can send us a message at info@ibbt.io
 
 ## Collateralized: 
 
