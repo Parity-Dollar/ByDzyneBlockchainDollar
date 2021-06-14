@@ -13,7 +13,30 @@ We designed the ByDzyne Blockchain Dollar as the stablecoin to set the community
 
 If you are an exchange owner or a merchant and want to intergrade the ByDzyne Dollar into your business model you can send us a message at info@ibbt.io
 
-## Collateralized: 
+## What are Cryptofiat Dollars?
+
+The Cryptofiat page measures the amount of coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, being utilized within the USBD decentralized finance (DeFi) ecosystem. iBBT monitors these tokens on the Ethereum blockchain by pulling the total balance held by these smart contracts
+
+[CryptoFiat Supply](https://etherscan.io/tokenholdings?a=0x496266ff0876262b0177cef026a117abc24b2532)
+
+How we define each type of Cryptofiat?
+
+**Custodial** - a USD token backed by USD held in custody by a third party
+
+**Collateralized** - a token pegged to USD backed by another asset or basket of assets
+
+             ----------------------- | -----------------
+               USD Coin              | Custodial
+               Binance Dollar        | Custodial
+               DAI                   | Collateralized
+               True Dollar           | Custodial
+               PAX                   | Custodial
+               HUSD                  | Custodial
+               Gemini Dollar         | Custodial
+               Stable Coin           | Custodial
+
+
+## Collateralized Basket:
 
 Each USBD token has a corresponding 1:1 parity value of seven stabecoins. The USBD is 100% decentralized, 100% autonomous, 100% Decentralized Attestation, and 100% Decentralized Managed Supply.  When the USBD is issued the supply of the USBD has an autonomous burning/issuing of the supply. This ensures the parity is always one-to-one with the value of the _eight_ stablecoins in custody. We have selected to work with the top _eight_ stablecoins with reliable management teams that maintain their own cash reserves against the independent value fluctuation of those stablecoins. This strategy allows our USBD holder to convert to any of the stablecoins, even if they originally selected to use a specific stablecoin conversion to USBD. The benefit of using USBD is the ability to choose which conversion best fits their daily price deviation. 
 
