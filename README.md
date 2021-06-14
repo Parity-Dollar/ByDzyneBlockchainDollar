@@ -17,7 +17,7 @@ If you are an exchange owner or a merchant and want to intergrade the ByDzyne Do
 
 The Cryptofiat page measures the amount of coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, being utilized within the USBD decentralized finance (DeFi) ecosystem. iBBT monitors these tokens on the Ethereum blockchain by pulling the total balance held by these smart contracts
 
-[CryptoFiat Supply](https://etherscan.io/tokenholdings?a=0x496266ff0876262b0177cef026a117abc24b2532)
+[CryptoFiat Supply](https://etherscan.io/tokenholdings?a=0x8e12e7225d738386758832991f010c82de23f86d)
 
 How we define each type of Cryptofiat?
 
