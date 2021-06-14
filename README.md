@@ -1,7 +1,7 @@
 ## ByDzyne Blockchain Dollar (USBD)
 Financial Innovations in Blockchain Marketing
 
-![image]()
+![image](https://github.com/Parity-Dollar/ByDzyneBlockchainDollar/blob/main/images/BDZN-256px.png)
 
 > The ByDzyne Blockchain Dollar (USBD) is an Ethereum based stablecoin backed by a basket of Stablecoins that are pegged to the USD. USBD was developed by iBlockchain Bank and Trust Technologies Co. and boostraped by ByDzyne Inc and Sustainability Creative Co.
 
