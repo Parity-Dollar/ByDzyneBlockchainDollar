@@ -62,6 +62,12 @@ Each USBD token has a corresponding 1:1 parity value of seven stabecoins. The US
 
 [Visit Live Disclosure & Attestation](https://etherscan.io/tokenholdings?a=0x8e12e7225d738386758832991f010c82de23f86d)
 
+## How the USBD Works
+
+The USBD Currency is borderless around the world that deposit and withdrawal USBD currency. The smart contract has a $10K KYC/AML limit per transaction. Anyone (hedge funds, traders, etc.) who wants to facilitate an amount larger than $10K in one trench can contact the USBD team for more details.  
+
+![image]()
+
 ## Escrow: 
 
 Each ByDzyne Dollar (USBD) is backed by a 1:1 ratio that is held in an escrow account by respective parties. Qualifying institutions can participate in the ByDzyne Dollar system, eliminating the need for trust in central entities or trust in third-party accounting. With _eight_ stablecoins daily price deviations may fluctuate for the individual stablecoins, but the price remains in `parity` since the USBD holder can choose to convert to a stablecoin under custody that has the most favorable price deviation.
