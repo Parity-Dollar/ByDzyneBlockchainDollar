@@ -15,6 +15,8 @@ We designed the ByDzyne Blockchain Dollar as the stablecoin to set the community
 
 We know that fiat paper money loses quality and needs to be destroyed and recirculated; this is no longer a physical phenomenon; it will go 100% digital. Add a group of stablecoins together that protects it against inflation, and that new digital currency becomes the ByDzyne dollar. In layman’s terms, ByDzyne dollars are the digital currency pegged to the cost of fiat money or any other assets. Ideally, the ByDzyne dollar price equals the cost of the corresponding fiat (for instance, $1 or the pegged value of the basket stablecoins). 
 
+![image](https://github.com/Parity-Dollar/ByDzyneBlockchainDollar/blob/main/images/USBD%20Image.png)
+
 > As we mentioned above, the value of the ByDzyne dollar has a direct relationship to traditional assets (gold, fiat currency, money, or other groups of asset values) in a ratio of 1:1. Moreover, this ratio is maintained throughout the life of the ByDzyne dollar, regardless of market conditions. Thus, price fluctuations up or down are possible on the basket of stablecoins, but they are insignificant. 
 
 If you are an exchange owner or a merchant and want to intergrade the ByDzyne Dollar into your business model you can send us a message at info@ibbt.io
