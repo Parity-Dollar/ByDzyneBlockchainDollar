@@ -66,7 +66,7 @@ Each USBD token has a corresponding 1:1 parity value of seven stabecoins. The US
 
 The USBD Currency is borderless around the world that deposit and withdrawal USBD currency. The smart contract has a $10K KYC/AML limit per transaction. Anyone (hedge funds, traders, etc.) who wants to facilitate an amount larger than $10K in one trench can contact the USBD team for more details.  
 
-![image]()
+![image](https://github.com/Parity-Dollar/ByDzyneBlockchainDollar/blob/main/images/USBD-X-V1.png)
 
 ## Escrow: 
 
