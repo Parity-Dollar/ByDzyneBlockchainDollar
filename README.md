@@ -48,6 +48,10 @@ How we define each type of Cryptofiat?
 
 Each USBD token has a corresponding 1:1 parity value of seven stabecoins. The USBD is 100% decentralized, 100% autonomous, 100% Decentralized Attestation, and 100% Decentralized Managed Supply.  When the USBD is issued the supply of the USBD has an autonomous burning/issuing of the supply. This ensures the parity is always one-to-one with the value of the _eight_ stablecoins in custody. We have selected to work with the top _eight_ stablecoins with reliable management teams that maintain their own cash reserves against the independent value fluctuation of those stablecoins. This strategy allows our USBD holder to convert to any of the stablecoins, even if they originally selected to use a specific stablecoin conversion to USBD. The benefit of using USBD is the ability to choose which conversion best fits their daily price deviation. 
 
+## Price Stabilization
+
+USBD maintains price stability by a build-in 1:1 parity with the stablecoins in the custody basket. The supply does not fluctuate under any circumstances.  For instance, even an increase in demand in USBD manifests in an increase in the volume of USBD transactions; there is no surge in the price of USBD.  In essence, there is no value associated with the increased demand in one unit of USBD even when newly minted USBD, collateralized by the basket of stablecoins used to purchase it. 
+
 
 ### Stablecoins in Custody
 
