@@ -1,4 +1,12 @@
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 ## ByDzyne Blockchain Dollar (USBD)
+[![Gitter](https://badges.gitter.im/intergalacticcredits/community.svg)](https://gitter.im/Blockchain-Bank/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+> What is an ByDzyne Dollar or (USBD)?  
+- Mainnet : [0x8e12E7225d738386758832991F010c82De23f86d](https://ethplorer.io/address/0x8e12e7225d738386758832991f010c82de23f86d#chart=candlestick)
+- Main Features: Run on the ethereum blockchain
+- 
 Financial Innovations in Blockchain Marketing
 
 ![image](https://github.com/Parity-Dollar/ByDzyneBlockchainDollar/blob/main/images/BDZN-256px.png)
